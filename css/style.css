@@ -692,8 +692,7 @@ footer ul b {
         border-right: none;
         font-weight: bold;
         text-align: start;
-        flex: 1;
-        width: 95%;
+        width: 92%;
     }
 
     .bouton-et-loupe button {
@@ -709,7 +708,7 @@ footer ul b {
         padding: 27px 20px 27px 20px;
         font-size: 1.1rem;
         font-weight: bold;
-        margin: 0 0 0 -40px;
+        margin: 0 0 0 -33px;
     }
 
     .filtres h3 {
