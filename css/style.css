@@ -233,15 +233,15 @@ h1 + p {
     padding: 30px;
     box-sizing: border-box;
 }
-/* Hebergements */
-.hebergements {
-    width: 65%;
-}
 
-.titre-hebergements {
+.titre {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+/* Hebergements */
+.hebergements {
+    width: 65%;
 }
 
 .hebergements h2 {
@@ -339,12 +339,6 @@ h1 + p {
     color: #000000;
 }
 
-.populaires-titre {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
 .populaires-cartes .carte {
     display: flex;
     margin-top: 33px;
@@ -386,11 +380,6 @@ h1 + p {
     box-sizing: border-box;
 }
 
-.activités-titre {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
 .garde .carte-titre {
     width: 90.3%;
 }
