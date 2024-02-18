@@ -1,5 +1,4 @@
 # Booki
-<h2>3ème projet de la formation</h2>
 
 ![image](https://assets-global.website-files.com/653a5b42c47238f54d01094c/655df866407491860a52d906_Booki%20-%20Desktop%20Huge.png)
 
